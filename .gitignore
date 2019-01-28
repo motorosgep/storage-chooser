@@ -9,3 +9,13 @@
 .externalNativeBuild
 .idea/modules.xml
 local.properties
+.idea/caches/build_file_checksums.ser
+.idea/codeStyles/Project.xml
+.idea/compiler.xml
+.idea/copyright/profiles_settings.xml
+.idea/gradle.xml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/inspectionProfiles/Project_Default.xml
+.idea/misc.xml
+.idea/runConfigurations.xml
+.idea/vcs.xml
